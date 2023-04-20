@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to my personal page. My name's Jan and I am a financial researcher, consultant, and strategist currently working at Cervest and focusing on the creation and development of models and products that quantify the impact of climate risk on the values of physical and financial assets.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My background is in credit risk research, advisory, and consulting, having built probability of default and loss-given-default models at Moody's Analytics and engaged in other miscellaneous economic and finance research and consulting projects, including IFRS9-related topics, both in-house and for clients.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I'm originally from the Czech Republic but currently reside in London, UK. Outside of work, I'm an avid road cycling, ice hockey, and skiing fan (and sometimes partaker).
