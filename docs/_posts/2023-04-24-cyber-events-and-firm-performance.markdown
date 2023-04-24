@@ -11,7 +11,7 @@ categories: jekyll update
 
 This post is my first proper one, so fasten your seat belts and be patient with me!
 
-As part of some research I've been doing---rarely not focused on credit or climate risk---I've come across the [Cyber Events Database](https://cissm.umd.edu/cyber-events-database). Per its website, The Cyber Events Database collects publicly available information on cyber events, beginning in 2014 to the present day. It was created to address a lack of consistent, well-structured data necessary for making strategic decisions about how to invest resources to prevent and respond to cyber events. "What an interesting dataset!" I (almost) exclaimed and thought that I had to look more into it.
+As part of some research I've been doing---rarely not focused on credit or climate risk---I've come across the [Cyber Events Database](https://cissm.umd.edu/cyber-events-database). Per its website, the Cyber Events Database collects publicly available information on cyber events, beginning in 2014 to the present day. It was created to address a lack of consistent, well-structured data necessary for making strategic decisions about how to invest resources to prevent and respond to cyber events. "What an interesting dataset!" I (almost) exclaimed and thought that I had to look more into it.
 
 ### Structural break in cyber risk after start of Covid-19?
 
