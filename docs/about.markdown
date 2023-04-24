@@ -10,4 +10,6 @@ Welcome to my personal page. My name's Jan and I am a financial researcher, cons
 
 My background is in credit risk research, advisory, and consulting, having built probability of default and loss-given-default models at Moody's Analytics and engaged in other miscellaneous economic and finance research and consulting projects, including IFRS9-related topics, both in-house and for clients.
 
-I'm originally from the Czech Republic but currently live in London, UK. Outside of work, I'm an avid road cycling, ice hockey, and skiing fan (and sometimes partaker).
+I'm originally from the Czech Republic and currently live in London, UK. Outside of work, I love hiking and I'm an avid road cycling, ice hockey, and skiing fan (and sometimes partaker).
+
+![image](/assets/images/jan_foto.jpg){:width="70%"}
