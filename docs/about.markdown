@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello there!
 
-Welcome to my personal page. My name's Jan Polach and I am a financial researcher, consultant, and strategist currently working at Cervest and focusing on the creation and development of models and products that quantify the impact of climate risk on the values of physical and financial assets.
+Welcome to my personal page. My name's Jan and I am a financial researcher, consultant, and strategist currently working at a climate tech start-up called Cervest, focusing on the creation and development of models and products that quantify the impact of climate risk on the values of physical and financial assets.
 
 My background is in credit risk research, advisory, and consulting, having built probability of default and loss-given-default models at Moody's Analytics and engaged in other miscellaneous economic and finance research and consulting projects, including IFRS9-related topics, both in-house and for clients.
 
