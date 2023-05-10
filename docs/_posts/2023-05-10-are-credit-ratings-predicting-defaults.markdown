@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are credit ratings predicting defaults?"
-date: 2023-05-10 16:50:55 +0100
+date: 2023-05-10 16:40:55 +0100
 categories: jekyll update
 ---
 
