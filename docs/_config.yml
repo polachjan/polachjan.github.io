@@ -30,6 +30,7 @@ linkedin_username: jan-polach
 github_username:  polachjan
 markdown: kramdown
 mathjax: true
+google_analytics: G-DFSSZ8PPZL
 
 # Build settings
 theme: minima
