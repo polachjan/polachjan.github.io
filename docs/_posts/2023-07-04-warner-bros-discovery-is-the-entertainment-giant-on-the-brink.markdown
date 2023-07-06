@@ -25,7 +25,7 @@ Let's first look at the stock performance of the main actors: AT&T, Discovery, a
 
 The initial reaction of the market wasn't super positive; in fact, we can see that both AT&T and Discovery lost a non-negligible amount of their market caps immediately after the announcement. The latter company was already on a downward trajectory following the collapse of Bill Hwang's Archegos Capital that had invested heavily in the stock in the previous six months but also the sobering of some investors who'd overreacted to the initial success of Discovery's *discovery+* streaming platform.
 
-Things haven't been going much better for WBD, stock performance-wise, since the merger was finalized. As of 3 July 2023, the stock is down 48% since the company's inception in April last year, hardly a positive result.
+Things haven't been going much better for WBD, stock performance-wise, since the merger was finalized. As of 3 July 2023, the stock is down 48% since the company's inception in April last year---hardly a positive result.
 
 Why has the market been so cold to WBD? Well, the new stand-alone company paid AT&T \\$43 billion for Warner Media and assumed Discovery's \\$13.5 billion debt, creating a total gross debt of roughly \\$56.5 billion for itself. In simple terms, WBD is heavily leveraged, which is a big problem in the current macroeconomic environment with high, and rising, interest rates.
 
