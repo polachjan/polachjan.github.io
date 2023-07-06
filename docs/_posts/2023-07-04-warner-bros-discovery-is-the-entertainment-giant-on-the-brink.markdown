@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warner Bros. Discovery: Is the entertainment giant on the brink?"
-date: 2023-07-04 14:02:03 +0100
+date: 2023-07-06 09:02:03 +0100
 categories: jekyll update
 ---
 
@@ -21,7 +21,7 @@ So why am I writing about WBD? Well, more than a year after the headlines-making
 
 Let's first look at the stock performance of the main actors: AT&T, Discovery, and the newly-formed Warner Bros. Discovery. The figure below shows the respective market caps (using post-merger share numbers) of the three companies, around, and after the merger.
 
-![Stock performance of AT&T, Discovery, and Warner Bros Discovery before and after the merger.](/assets/images/20230704/fig-stock-performance-1.png)
+![Stock performance of AT&T, Discovery, and Warner Bros Discovery before and after the merger.](/assets/images/20230706/fig-stock-performance-1.png)
 
 The initial reaction of the market wasn't super positive; in fact, we can see that both AT&T and Discovery lost a non-negligible amount of their market caps immediately after the announcement. The latter company was already on a downward trajectory following the collapse of Bill Hwang's Archegos Capital that had invested heavily in the stock in the previous six months but also the sobering of some investors who'd overreacted to the initial success of Discovery's *discovery+* streaming platform.
 
@@ -31,11 +31,11 @@ Why has the market been so cold to WBD? Well, the new stand-alone company paid A
 
 ### WBD's leverage
 
-Just *how* heavily leveraged is WBD, though? The figure below plots the "market" leverage ratios of the three companies defined as total book liabilities over total market cap. The dashed lines represent the 2.5th, 25th, 50th, 75th, and 97.5th percentiles of the market leverage ratios of the components of the S&P 500 index.
+Just *how* heavily leveraged is WBD, though? The figure below plots the "market" leverage ratios of the three companies defined as total book liabilities over total market cap. The dashed lines represent the 2.5th, 25th, 50th, 75th, and 97.5th percentiles of the market leverage ratios of the components of the S&P 500 index. Note that, in reality, the leverage ratio of WBD shot up on the day of the merger but WBD's exact financial position was only revealed later when with a new financial statements coming out---hence the delay in the figure.
 
-![Market leverage ratios of AT&T, Discovery, and Warner Bros. Discovery along with selected percentiles of the leverage ratio of the S&P 500 index.](/assets/images/20230704/fig-leverage-1.png)
+![Market leverage ratios of AT&T, Discovery, and Warner Bros. Discovery along with selected percentiles of the leverage ratio of the S&P 500 index.](/assets/images/20230706/fig-leverage-1.png)
 
-The picture is quite clear: WBD is *pretty* leveraged in relative terms, with the market leverage ratio moving around the 97.5th percentile among the S&P 500 names. Before the merger, Discovery was in the lower half of the distribution of leverage ratios in this period.
+The picture is quite clear: WBD is *pretty* leveraged in relative terms, with the market leverage ratio moving around and often above the 97.5th percentile among the S&P 500 names. Before the merger, Discovery was in the lower half of the distribution of leverage ratios in this period.
 
 You might counter and say that AT&T's leverage is also quite high; while this is true, AT&T operates in a different industry in which firms are generally more reliant on debt. Comparing WBD to peers such as Paramount or Disney shows that WBD has a lot of debt, given its industry.
 
@@ -47,16 +47,16 @@ To tackle this issue, banks and asset managers have long been using the Merton m
 
 To estimate the Merton model for a company, one needs to obtain some general macroeconomic indicators, such as the risk-free rate, and a bit of information about the company's financial position, not too dissimilar from that used in the charts above: the market cap and the amount of debt. The figure below shows the market cap and the estimated firm value for WBD:
 
-![Market cap and firm value of Discovery and Warner Bros. Discovery.](/assets/images/20230704/fig-get-merton-out-1.png)
+![Market cap and firm value of Discovery and Warner Bros. Discovery.](/assets/images/20230706/fig-get-merton-out-1.png)
 
 We observe that, after the merger, the two variables start to diverge; this is, to an extent, driven by the increased amount of debt the new company took on, which automatically pushed the firm value upwards. Is the increase high enough, however? As we know from above, the market cap went down which reduced the "buffer" the company had before it would become insolvent. The figure below shows the Merton-model-based one-year probability of default (PD):
 
-![Estimated one-year probability of default of WBD using the Merton model.](/assets/images/20230704/fig-pd-1.png)
+![Estimated one-year probability of default of WBD using the Merton model.](/assets/images/20230706/fig-pd-1.png)
 
-We see that, after the merger, the one-year PD went up rather dramatically to around 10% before settling just below this value for most of the time in the past few months. This represents a big jump compared to the risk of the pre-merger Discovery whose one-year PD was around 1.5% (still considerably higher than the rating-implied PD of 0.25%) and puts the company into a highly speculative grade and seemingly quite close to default.
+We see that, after the merger, the one-year PD went up rather dramatically to around 10% before settling just below this value for most of the time in the past few months. This represents a big jump compared to the risk of the pre-merger Discovery whose one-year PD was around 1.1% (still more than four times higher than the rating-implied PD of 0.25%) and puts the company into a highly speculative grade and seemingly quite close to default.
 
 ### Conclusion
 
-So is WBD on the brink of default, then? Its current estimated one-year PD is around 10%, up from 7.5% in February this year and significantly higher than that of pre-merger Discovery of 1.5%. Despite this, it's not that easy to say---investors are definitely concerned about the high level of debt, a fact manifested in the low stock price and particularly its trend since the merger. This doesn't have to mean a default is imminent, however; it can also be that WBD is a great investment opportunity as the equity might be undervalued. Despite its high debt, the company manages to generate remarkable revenue for an entertainment and media enterprise. In the last year, the WBD recorded an impressive \\$41.3 billion in revenue, surpassing both Netflix and Paramount, which reported \\$32 billion and \\$30 billion in revenue, respectively.
+So is WBD on the brink of default, then? Its current estimated one-year PD is around 10%, up from 7.5% in February this year and significantly higher than that of pre-merger Discovery of 1.1%. Despite this, it's not that easy to say---investors are definitely concerned about the high level of debt, a fact manifested in the low stock price and particularly its trend since the merger. This doesn't have to mean a default is imminent, however; it can also be that WBD is a great investment opportunity as the equity might be undervalued. Despite its high debt, the company manages to generate remarkable revenue for an entertainment and media enterprise. In the last year, the WBD recorded an impressive \\$41.3 billion in revenue, surpassing both Netflix and Paramount, which reported \\$32 billion and \\$30 billion in revenue, respectively.
 
-WBD's debt is genuine and will become more expensive as interest rates likely increase or, at the very least, stay elevated for some time. The Merton-model-implied PD might be a bit on the high side, but the company's credit risk certainly looks greater than what's implied by the rating agencies' ratings at this time.
+WBD's debt presents a heavy burden to the company and one that is poised to become even more costly due to the anticipated rise in interest rates or, at the very least, their sustained elevation for a considerable duration. While the Merton model-implied PD might be slightly exaggerated, it is possible and indeed quite likely that the company's credit risk exceeds the level implied by the company's current credit ratings.
